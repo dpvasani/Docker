@@ -1,23 +1,29 @@
-# Use the latest Node.js with Alpine as the base image
-FROM node:alpine
+# ✅ Use a specific minimal Node.js version with Alpine
+FROM node:20-alpine AS base
 
-# Set working directory
+# 🧼 Create a non-root user for better security
+RUN addgroup app && adduser -S -G app app
+
+# 📁 Set working directory
 WORKDIR /app
 
-# Copy package files first for layer caching
+# 🔒 Use only package.json and lock file for better cache management
 COPY package*.json ./
 
-# Install dependencies
-RUN npm install
+# 📦 Install dependencies (in a separate layer to improve caching)
+RUN npm ci --omit=dev
 
-# Copy rest of the source code
-COPY . .
+# 🧍 Switch to non-root user
+USER app
 
-# Set environment variables if needed
+# 📁 Copy application code after installing deps to optimize Docker caching
+COPY --chown=app:app . .
+
+# 🌍 Set environment variable
 ENV PORT=8000
 
-# Expose the required port
+# 🚪 Expose the app port
 EXPOSE 8000
 
-# Start the app
-CMD ["npm", "start"]
+# 🚀 Start the app
+CMD ["node", "index.js"]
