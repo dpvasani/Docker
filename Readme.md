@@ -32,7 +32,7 @@ Docker simplifies app development by packaging code with all dependencies into a
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/docker-learning.git
+   git clone https://github.com/dpvasani/docker.git
    cd docker-learning
    ```
 

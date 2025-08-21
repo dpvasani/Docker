@@ -72,7 +72,7 @@ const config: Config = {
         },
         {to: '/blog', label: '📝 Blog', position: 'left'},
         {
-          href: 'https://github.com/docker/docker',
+          href: 'https://github.com/dpvasani/docker',
           label: '🐙 GitHub',
           position: 'right',
         },
@@ -124,7 +124,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/docker/docker',
+              href: 'https://github.com/dpvasani/docker',
             },
           ],
         },

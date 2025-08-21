@@ -60,7 +60,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/docker/docker",
+          "href": "https://github.com/dpvasani/docker",
           "label": "🐙 GitHub",
           "position": "right"
         }
@@ -113,7 +113,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/docker/docker"
+              "href": "https://github.com/dpvasani/docker"
             }
           ]
         }
