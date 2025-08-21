@@ -1,0 +1,27 @@
+{
+  "id": "docker-basics/containers-vs-vms",
+  "title": "03. Containers vs VMs",
+  "description": "Overview",
+  "source": "@site/docs/docker-basics/containers-vs-vms.md",
+  "sourceDirName": "docker-basics",
+  "slug": "/docker-basics/containers-vs-vms",
+  "permalink": "/docs/docker-basics/containers-vs-vms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-basics/containers-vs-vms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "03. Containers vs VMs",
+    "sidebar_label": "03. Containers vs VMs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐳 2. Docker Fundamentals",
+    "permalink": "/docs/category/docker-fundamentals"
+  },
+  "next": {
+    "title": "Docker Architecture",
+    "permalink": "/docs/docker-basics/docker-architecture"
+  }
+}

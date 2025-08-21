@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🚀 1. Getting Started",
-    "permalink": "/docs/intro"
+    "title": "03. Containers vs VMs",
+    "permalink": "/docs/docker-basics/containers-vs-vms"
   },
   "next": {
     "title": "What is Docker?",

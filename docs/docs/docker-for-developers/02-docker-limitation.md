@@ -1,6 +1,7 @@
 ---
 title: "02. docker limitation"
 sidebar_label: "02. docker limitation"
+slug: "/docker-for-developers/docker-limitation"
 ---
 
 ### 🧠 1. **Operating System-Level Virtualization**

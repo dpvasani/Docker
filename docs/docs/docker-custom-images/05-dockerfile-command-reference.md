@@ -1,6 +1,7 @@
 ---
 title: "05. 🧾 Dockerfile Command Reference"
 sidebar_label: "05. 🧾 Dockerfile Command Reference"
+slug: "/docker-custom-images/dockerfile-command-reference"
 ---
 
 Each command in a Dockerfile defines a specific instruction for how to **build a Docker image**. Here’s a detailed breakdown:

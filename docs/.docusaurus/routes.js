@@ -79,16 +79,76 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e01'),
+    component: ComponentCreator('/docs', '70d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '3f8'),
+        component: ComponentCreator('/docs', '7a3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ee8'),
+            component: ComponentCreator('/docs', 'ef2'),
             routes: [
+              {
+                path: '/docs/category/docker-cli',
+                component: ComponentCreator('/docs/category/docker-cli', '32c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/docker-compose',
+                component: ComponentCreator('/docs/category/docker-compose', 'a12'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/docker-custom-images',
+                component: ComponentCreator('/docs/category/docker-custom-images', 'bf3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/docker-for-developers',
+                component: ComponentCreator('/docs/category/docker-for-developers', '44f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/docker-fundamentals',
+                component: ComponentCreator('/docs/category/docker-fundamentals', '6b4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/docker-networking',
+                component: ComponentCreator('/docs/category/docker-networking', '2a2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/docker-orchestration',
+                component: ComponentCreator('/docs/category/docker-orchestration', 'd13'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/docker-volumes',
+                component: ComponentCreator('/docs/category/docker-volumes', 'b29'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/dockerfiles',
+                component: ComponentCreator('/docs/category/dockerfiles', '406'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/docker-basics/containers-vs-vms',
+                component: ComponentCreator('/docs/docker-basics/containers-vs-vms', '9c2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/docker-basics/docker-architecture',
                 component: ComponentCreator('/docs/docker-basics/docker-architecture', '868'),
@@ -98,12 +158,6 @@ export default [
               {
                 path: '/docs/docker-basics/what-is-docker',
                 component: ComponentCreator('/docs/docker-basics/what-is-docker', 'ca3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/docker-cli/cli-cheat-sheet',
-                component: ComponentCreator('/docs/docker-cli/cli-cheat-sheet', '2f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -120,14 +174,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/docker-cli/docker-run',
-                component: ComponentCreator('/docs/docker-cli/docker-run', '007'),
+                path: '/docs/docker-cli/image-commands',
+                component: ComponentCreator('/docs/docker-cli/image-commands', '1a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/docker-compose/compose-basics',
-                component: ComponentCreator('/docs/docker-compose/compose-basics', '55c'),
+                path: '/docs/docker-compose/compose-networking',
+                component: ComponentCreator('/docs/docker-compose/compose-networking', '3db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -151,12 +205,6 @@ export default [
               },
               {
                 path: '/docs/docker-custom-images/docker-custom-images',
-                component: ComponentCreator('/docs/docker-custom-images/docker-custom-images', 'a80'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/docker-custom-images/docker-custom-images',
                 component: ComponentCreator('/docs/docker-custom-images/docker-custom-images', '1d7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
@@ -169,13 +217,13 @@ export default [
               },
               {
                 path: '/docs/docker-custom-images/dockerfile-command-reference',
-                component: ComponentCreator('/docs/docker-custom-images/dockerfile-command-reference', '280'),
+                component: ComponentCreator('/docs/docker-custom-images/dockerfile-command-reference', 'd44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/docker-custom-images/dockerfile-command-reference',
-                component: ComponentCreator('/docs/docker-custom-images/dockerfile-command-reference', 'd44'),
+                path: '/docs/docker-custom-images/image-optimization',
+                component: ComponentCreator('/docs/docker-custom-images/image-optimization', '421'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -222,6 +270,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/docker-networking/02-advanced-networking',
+                component: ComponentCreator('/docs/docker-networking/02-advanced-networking', '508'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/docker-networking/docker-networking',
                 component: ComponentCreator('/docs/docker-networking/docker-networking', '997'),
                 exact: true,
@@ -240,6 +294,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/docker-volumes/02-volume-drivers',
+                component: ComponentCreator('/docs/docker-volumes/02-volume-drivers', '972'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/docker-volumes/docker-volumes',
                 component: ComponentCreator('/docs/docker-volumes/docker-volumes', '9a8'),
                 exact: true,
@@ -248,6 +308,12 @@ export default [
               {
                 path: '/docs/docker-volumes/docker-volumes-basics',
                 component: ComponentCreator('/docs/docker-volumes/docker-volumes-basics', 'a99'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/dockerfiles/best-practices',
+                component: ComponentCreator('/docs/dockerfiles/best-practices', 'e84'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

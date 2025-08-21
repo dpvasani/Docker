@@ -1,0 +1,29 @@
+{
+  "id": "docker-volumes/volume-drivers",
+  "title": "02. Volume Drivers",
+  "description": "Local Driver (Default)",
+  "source": "@site/docs/docker-volumes/02-volume-drivers.md",
+  "sourceDirName": "docker-volumes",
+  "slug": "/docker-volumes/02-volume-drivers",
+  "permalink": "/docs/docker-volumes/02-volume-drivers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-volumes/02-volume-drivers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "02. Volume Drivers",
+    "sidebar_label": "02. Volume Drivers",
+    "slug": "/docker-volumes/02-volume-drivers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01. 📦 Docker Volumes – A2Z Storage Guide 🐳",
+    "permalink": "/docs/docker-volumes/docker-volumes"
+  },
+  "next": {
+    "title": "🧭 9. Docker Orchestration",
+    "permalink": "/docs/category/docker-orchestration"
+  }
+}

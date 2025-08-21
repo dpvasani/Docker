@@ -1,0 +1,29 @@
+{
+  "id": "docker-networking/advanced-networking",
+  "title": "02. Advanced Networking",
+  "description": "Custom Bridge with Subnet",
+  "source": "@site/docs/docker-networking/02-advanced-networking.md",
+  "sourceDirName": "docker-networking",
+  "slug": "/docker-networking/02-advanced-networking",
+  "permalink": "/docs/docker-networking/02-advanced-networking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-networking/02-advanced-networking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "02. Advanced Networking",
+    "sidebar_label": "02. Advanced Networking",
+    "slug": "/docker-networking/02-advanced-networking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps",
+    "permalink": "/docs/docker-networking/docker-networking"
+  },
+  "next": {
+    "title": "📦 8. Docker Volumes",
+    "permalink": "/docs/category/docker-volumes"
+  }
+}

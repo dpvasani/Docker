@@ -1,6 +1,7 @@
 ---
 title: "01. 🐳 **Docker CLI Cheat Sheet**"
 sidebar_label: "01. 🐳 **Docker CLI Cheat Sheet**"
+slug: "/docker-cli/docker-cli-cheat-sheet"
 ---
 
 *Your one-stop guide to mastering Docker commands* 🚀

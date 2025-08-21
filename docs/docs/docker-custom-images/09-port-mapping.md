@@ -1,6 +1,7 @@
 ---
 title: "09. Port Mapping"
 sidebar_label: "09. Port Mapping"
+slug: "/docker-custom-images/port-mapping"
 ---
 
 ---

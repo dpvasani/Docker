@@ -1,0 +1,27 @@
+{
+  "id": "docker-compose/compose-networking",
+  "title": "02. Compose Networking",
+  "description": "Service Discovery",
+  "source": "@site/docs/docker-compose/compose-networking.md",
+  "sourceDirName": "docker-compose",
+  "slug": "/docker-compose/compose-networking",
+  "permalink": "/docs/docker-compose/compose-networking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-compose/compose-networking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "02. Compose Networking",
+    "sidebar_label": "02. Compose Networking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01. 🧩 Docker Compose – Full DevOps Power in One File",
+    "permalink": "/docs/docker-compose/docker-compose"
+  },
+  "next": {
+    "title": "🏗️ 6. Docker Custom Images",
+    "permalink": "/docs/category/docker-custom-images"
+  }
+}

@@ -1,6 +1,7 @@
 ---
 title: "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀"
 sidebar_label: "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀"
+slug: "/docker-custom-images/docker-custom-images"
 ---
 
 > **Learn to build, optimize, and run custom Docker images for Node.js applications like a pro.**

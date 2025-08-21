@@ -1,6 +1,7 @@
 ---
 title: "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps"
 sidebar_label: "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps"
+slug: "/docker-networking/docker-networking"
 ---
 
 ---

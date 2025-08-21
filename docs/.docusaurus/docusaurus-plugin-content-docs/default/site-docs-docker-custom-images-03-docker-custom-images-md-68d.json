@@ -14,7 +14,8 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "title": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
-    "sidebar_label": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀"
+    "sidebar_label": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
+    "slug": "/docker-custom-images/docker-custom-images"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -22,7 +23,7 @@
     "permalink": "/docs/docker-custom-images/complete-docker-image-publishing-cheatsheet"
   },
   "next": {
-    "title": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
-    "permalink": "/docs/docker-custom-images/docker-custom-images"
+    "title": "03. Image Optimization",
+    "permalink": "/docs/docker-custom-images/image-optimization"
   }
 }

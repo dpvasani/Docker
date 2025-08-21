@@ -1,0 +1,28 @@
+{
+  "id": "docker-custom-images/image-optimization",
+  "title": "03. Image Optimization",
+  "description": "Choose the Right Base",
+  "source": "@site/docs/docker-custom-images/03-image-optimization.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/image-optimization",
+  "permalink": "/docs/docker-custom-images/image-optimization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/03-image-optimization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "03. Image Optimization",
+    "sidebar_label": "03. Image Optimization"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
+    "permalink": "/docs/docker-custom-images/docker-custom-images"
+  },
+  "next": {
+    "title": "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀",
+    "permalink": "/docs/docker-custom-images/docker-image-optimization-guide"
+  }
+}

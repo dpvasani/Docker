@@ -14,15 +14,16 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*",
-    "sidebar_label": "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*"
+    "sidebar_label": "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*",
+    "slug": "/docker-orchestration/docker-orchestration-with-aws-ecs"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "01. 📦 Docker Volumes – A2Z Storage Guide 🐳",
-    "permalink": "/docs/docker-volumes/docker-volumes"
+    "title": "🧭 9. Docker Orchestration",
+    "permalink": "/docs/category/docker-orchestration"
   },
   "next": {
-    "title": "01. docker for developer",
-    "permalink": "/docs/docker-for-developers/docker-for-developer"
+    "title": "👨‍💻 10. Docker for Developers",
+    "permalink": "/docs/category/docker-for-developers"
   }
 }

@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps",
-    "permalink": "/docs/docker-networking/docker-networking"
+    "title": "📦 8. Docker Volumes",
+    "permalink": "/docs/category/docker-volumes"
   },
   "next": {
     "title": "01. 📦 Docker Volumes – A2Z Storage Guide 🐳",

@@ -18,7 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Docker Architecture",
-    "permalink": "/docs/docker-basics/docker-architecture"
+    "title": "🐳 2. Docker Fundamentals",
+    "permalink": "/docs/category/docker-fundamentals"
   }
 }

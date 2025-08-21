@@ -1,6 +1,7 @@
 ---
 title: "01. 🧩 Docker Compose – Full DevOps Power in One File"
 sidebar_label: "01. 🧩 Docker Compose – Full DevOps Power in One File"
+slug: "/docker-compose/docker-compose"
 ---
 
 ---

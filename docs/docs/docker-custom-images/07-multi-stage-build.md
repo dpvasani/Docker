@@ -1,6 +1,7 @@
 ---
 title: "07. 🧱 What is a Multi-Stage Build in Docker?"
 sidebar_label: "07. 🧱 What is a Multi-Stage Build in Docker?"
+slug: "/docker-custom-images/multi-stage-build"
 ---
 
 > **Multi-stage build** allows you to use **multiple `FROM` statements** in a single Dockerfile to:

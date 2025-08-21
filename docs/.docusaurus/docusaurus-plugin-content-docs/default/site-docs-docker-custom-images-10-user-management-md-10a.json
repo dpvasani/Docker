@@ -14,7 +14,8 @@
   "sidebarPosition": 10,
   "frontMatter": {
     "title": "10. 🔒 Why Secure User Management in Docker Matters?",
-    "sidebar_label": "10. 🔒 Why Secure User Management in Docker Matters?"
+    "sidebar_label": "10. 🔒 Why Secure User Management in Docker Matters?",
+    "slug": "/docker-custom-images/user-management"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -22,7 +23,7 @@
     "permalink": "/docs/docker-custom-images/port-mapping"
   },
   "next": {
-    "title": "01. Docker Networking Basics",
-    "permalink": "/docs/docker-networking/docker-networking-basics"
+    "title": "🌐 7. Docker Networking",
+    "permalink": "/docs/category/docker-networking"
   }
 }

@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Docker Run",
-    "permalink": "/docs/docker-cli/docker-run"
+    "title": "02. Best Practices",
+    "permalink": "/docs/dockerfiles/best-practices"
   },
   "next": {
     "title": "Dockerfile Commands",

@@ -14,7 +14,8 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "02. docker run",
-    "sidebar_label": "02. docker run"
+    "sidebar_label": "02. docker run",
+    "slug": "/docker-cli/docker-run"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -22,7 +23,7 @@
     "permalink": "/docs/docker-cli/docker-cli-cheat-sheet"
   },
   "next": {
-    "title": "CLI Cheat Sheet",
-    "permalink": "/docs/docker-cli/cli-cheat-sheet"
+    "title": "03. Image Commands",
+    "permalink": "/docs/docker-cli/image-commands"
   }
 }

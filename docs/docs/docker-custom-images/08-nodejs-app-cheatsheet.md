@@ -1,6 +1,7 @@
 ---
 title: "08. 🧪 Build the Docker image and tag it as 'my-node-app'"
 sidebar_label: "08. 🧪 Build the Docker image and tag it as 'my-node-app'"
+slug: "/docker-custom-images/nodejs-app-cheatsheet"
 ---
 
 ## 🐳 Docker Cheatsheet for Node.js App

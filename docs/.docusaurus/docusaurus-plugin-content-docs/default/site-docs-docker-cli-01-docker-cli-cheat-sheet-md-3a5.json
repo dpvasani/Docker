@@ -14,15 +14,16 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "01. 🐳 **Docker CLI Cheat Sheet**",
-    "sidebar_label": "01. 🐳 **Docker CLI Cheat Sheet**"
+    "sidebar_label": "01. 🐳 **Docker CLI Cheat Sheet**",
+    "slug": "/docker-cli/docker-cli-cheat-sheet"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "What is Docker?",
-    "permalink": "/docs/docker-basics/what-is-docker"
+    "title": "⚡ 3. Docker CLI Commands",
+    "permalink": "/docs/category/docker-cli"
   },
   "next": {
-    "title": "Docker Run",
+    "title": "02. docker run",
     "permalink": "/docs/docker-cli/docker-run"
   }
 }

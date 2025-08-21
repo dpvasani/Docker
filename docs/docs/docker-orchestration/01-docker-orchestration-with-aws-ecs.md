@@ -1,6 +1,7 @@
 ---
 title: "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*"
 sidebar_label: "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*"
+slug: "/docker-orchestration/docker-orchestration-with-aws-ecs"
 ---
 
 ---

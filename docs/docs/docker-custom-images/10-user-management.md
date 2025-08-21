@@ -1,6 +1,7 @@
 ---
 title: "10. 🔒 Why Secure User Management in Docker Matters?"
 sidebar_label: "10. 🔒 Why Secure User Management in Docker Matters?"
+slug: "/docker-custom-images/user-management"
 ---
 
 > 🧠 By default, Docker containers run processes as **root**, which is:

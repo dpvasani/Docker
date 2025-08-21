@@ -1,0 +1,27 @@
+{
+  "id": "dockerfiles/best-practices",
+  "title": "02. Dockerfile Best Practices",
+  "description": "Keep Images Small",
+  "source": "@site/docs/dockerfiles/best-practices.md",
+  "sourceDirName": "dockerfiles",
+  "slug": "/dockerfiles/best-practices",
+  "permalink": "/docs/dockerfiles/best-practices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dockerfiles/best-practices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "02. Dockerfile Best Practices",
+    "sidebar_label": "02. Best Practices"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📝 4. Dockerfiles",
+    "permalink": "/docs/category/dockerfiles"
+  },
+  "next": {
+    "title": "Dockerfile Basics",
+    "permalink": "/docs/dockerfiles/dockerfile-basics"
+  }
+}

@@ -1,6 +1,7 @@
 ---
 title: "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀"
 sidebar_label: "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀"
+slug: "/docker-custom-images/docker-image-optimization-guide"
 ---
 
 Optimize your Docker images for faster builds, smaller size, better caching, and production readiness. Let’s go!

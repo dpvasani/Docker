@@ -14,7 +14,8 @@
   "sidebarPosition": 6,
   "frontMatter": {
     "title": "06. layer",
-    "sidebar_label": "06. layer"
+    "sidebar_label": "06. layer",
+    "slug": "/docker-custom-images/layer"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

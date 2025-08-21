@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "docker-basics/containers-vs-vms",
+              "path": "/docs/docker-basics/containers-vs-vms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "docker-basics/docker-architecture",
               "path": "/docs/docker-basics/docker-architecture",
               "sidebar": "tutorialSidebar"
@@ -18,11 +23,6 @@
             {
               "id": "docker-basics/what-is-docker",
               "path": "/docs/docker-basics/what-is-docker",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "docker-cli/cli-cheat-sheet",
-              "path": "/docs/docker-cli/cli-cheat-sheet",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -36,13 +36,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "docker-cli/docker-run",
-              "path": "/docs/docker-cli/docker-run",
+              "id": "docker-cli/image-commands",
+              "path": "/docs/docker-cli/image-commands",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "docker-compose/compose-basics",
-              "path": "/docs/docker-compose/compose-basics",
+              "id": "docker-compose/compose-networking",
+              "path": "/docs/docker-compose/compose-networking",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -66,11 +66,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "docker-custom-images/docker-custom-images",
-              "path": "/docs/docker-custom-images/docker-custom-images",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "docker-custom-images/docker-image-optimization-guide",
               "path": "/docs/docker-custom-images/docker-image-optimization-guide",
               "sidebar": "tutorialSidebar"
@@ -81,8 +76,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "docker-custom-images/dockerfile-command-reference",
-              "path": "/docs/docker-custom-images/dockerfile-command-reference",
+              "id": "docker-custom-images/image-optimization",
+              "path": "/docs/docker-custom-images/image-optimization",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -121,6 +116,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "docker-networking/advanced-networking",
+              "path": "/docs/docker-networking/02-advanced-networking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "docker-networking/docker-networking",
               "path": "/docs/docker-networking/docker-networking",
               "sidebar": "tutorialSidebar"
@@ -146,6 +146,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "docker-volumes/volume-drivers",
+              "path": "/docs/docker-volumes/02-volume-drivers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dockerfiles/best-practices",
+              "path": "/docs/dockerfiles/best-practices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "dockerfiles/dockerfile-basics",
               "path": "/docs/dockerfiles/dockerfile-basics",
               "sidebar": "tutorialSidebar"
@@ -158,6 +168,51 @@
             {
               "id": "intro",
               "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker-fundamentals",
+              "path": "/docs/category/docker-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker-cli",
+              "path": "/docs/category/docker-cli",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/dockerfiles",
+              "path": "/docs/category/dockerfiles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker-compose",
+              "path": "/docs/category/docker-compose",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker-custom-images",
+              "path": "/docs/category/docker-custom-images",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker-networking",
+              "path": "/docs/category/docker-networking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker-volumes",
+              "path": "/docs/category/docker-volumes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker-orchestration",
+              "path": "/docs/category/docker-orchestration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker-for-developers",
+              "path": "/docs/category/docker-for-developers",
               "sidebar": "tutorialSidebar"
             }
           ],

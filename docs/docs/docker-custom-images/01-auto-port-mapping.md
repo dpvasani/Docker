@@ -1,6 +1,7 @@
 ---
 title: "01. 🧭 Docker Port Mapping & CLI Flag CheatSheet"
 sidebar_label: "01. 🧭 Docker Port Mapping & CLI Flag CheatSheet"
+slug: "/docker-custom-images/auto-port-mapping"
 ---
 
 ---

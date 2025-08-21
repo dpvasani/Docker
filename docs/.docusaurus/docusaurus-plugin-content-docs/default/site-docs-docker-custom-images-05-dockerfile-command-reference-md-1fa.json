@@ -14,7 +14,8 @@
   "sidebarPosition": 5,
   "frontMatter": {
     "title": "05. 🧾 Dockerfile Command Reference",
-    "sidebar_label": "05. 🧾 Dockerfile Command Reference"
+    "sidebar_label": "05. 🧾 Dockerfile Command Reference",
+    "slug": "/docker-custom-images/dockerfile-command-reference"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -22,7 +23,7 @@
     "permalink": "/docs/docker-custom-images/docker-image-optimization-guide"
   },
   "next": {
-    "title": "05. 🧾 Dockerfile Command Reference",
-    "permalink": "/docs/docker-custom-images/dockerfile-command-reference"
+    "title": "06. layer",
+    "permalink": "/docs/docker-custom-images/layer"
   }
 }

@@ -1,6 +1,7 @@
 ---
 title: "01. docker for developer"
 sidebar_label: "01. docker for developer"
+slug: "/docker-for-developers/docker-for-developer"
 ---
 
 ## 🚀 **Course Overview & What to Expect**

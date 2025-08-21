@@ -1,6 +1,7 @@
 ---
 title: "02. docker run"
 sidebar_label: "02. docker run"
+slug: "/docker-cli/docker-run"
 ---
 
 ## 🔍 **What happens when you run `docker run ubuntu`?**

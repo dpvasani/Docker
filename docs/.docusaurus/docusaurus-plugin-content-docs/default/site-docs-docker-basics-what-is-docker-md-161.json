@@ -22,7 +22,7 @@
     "permalink": "/docs/docker-basics/docker-architecture"
   },
   "next": {
-    "title": "01. 🐳 **Docker CLI Cheat Sheet**",
-    "permalink": "/docs/docker-cli/docker-cli-cheat-sheet"
+    "title": "⚡ 3. Docker CLI Commands",
+    "permalink": "/docs/category/docker-cli"
   }
 }

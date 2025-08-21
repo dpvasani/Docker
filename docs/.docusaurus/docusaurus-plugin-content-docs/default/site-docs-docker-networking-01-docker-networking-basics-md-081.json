@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "10. 🔒 Why Secure User Management in Docker Matters?",
-    "permalink": "/docs/docker-custom-images/user-management"
+    "title": "🌐 7. Docker Networking",
+    "permalink": "/docs/category/docker-networking"
   },
   "next": {
     "title": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps",

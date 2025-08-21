@@ -22,7 +22,7 @@
     "permalink": "/docs/dockerfiles/dockerfile-basics"
   },
   "next": {
-    "title": "01. 🧩 Docker Compose – Full DevOps Power in One File",
-    "permalink": "/docs/docker-compose/docker-compose"
+    "title": "🧩 5. Docker Compose",
+    "permalink": "/docs/category/docker-compose"
   }
 }

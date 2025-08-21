@@ -1,6 +1,7 @@
 ---
 title: "06. layer"
 sidebar_label: "06. layer"
+slug: "/docker-custom-images/layer"
 ---
 
 ## 🧩 Docker Layer Caching: What & Why?

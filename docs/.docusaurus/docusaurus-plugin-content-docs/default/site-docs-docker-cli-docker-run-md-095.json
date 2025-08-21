@@ -22,7 +22,7 @@
     "permalink": "/docs/docker-cli/docker-cli-cheat-sheet"
   },
   "next": {
-    "title": "CLI Cheat Sheet",
-    "permalink": "/docs/docker-cli/cli-cheat-sheet"
+    "title": "Docker Run",
+    "permalink": "/docs/docker-cli/docker-run"
   }
 }

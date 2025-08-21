@@ -127,18 +127,58 @@
     ],
     "__props": "__props---blog-tags-documentationaf-8-3c5"
   },
-  "/docs-e01": {
+  "/docs-70d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-3f8": {
+  "/docs-7a3": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-ee8": {
+  "/docs-ef2": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/docker-cli-32c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-docker-cli-7-f-1-260"
+  },
+  "/docs/category/docker-compose-a12": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-docker-compose-47-a-cc4"
+  },
+  "/docs/category/docker-custom-images-bf3": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-docker-custom-images-806-9fe"
+  },
+  "/docs/category/docker-for-developers-44f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-docker-for-developers-922-ab0"
+  },
+  "/docs/category/docker-fundamentals-6b4": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-docker-fundamentals-43-d-cd4"
+  },
+  "/docs/category/docker-networking-2a2": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-docker-networking-70-f-25a"
+  },
+  "/docs/category/docker-orchestration-d13": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-docker-orchestration-290-18e"
+  },
+  "/docs/category/docker-volumes-b29": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-docker-volumes-0-b-1-bce"
+  },
+  "/docs/category/dockerfiles-406": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-dockerfiles-1-c-0-c85"
+  },
+  "/docs/docker-basics/containers-vs-vms-9c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-basics-containers-vs-vms-92-f-b52"
   },
   "/docs/docker-basics/docker-architecture-868": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -148,10 +188,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-basics-what-is-docker-161-070"
   },
-  "/docs/docker-cli/cli-cheat-sheet-2f4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-cli-cli-cheat-sheetda-5-e31"
-  },
   "/docs/docker-cli/docker-cli-cheat-sheet-e6b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-cli-docker-cli-cheat-sheet-3-a-5-6b4"
@@ -160,13 +196,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-cli-docker-runa-30-a28"
   },
-  "/docs/docker-cli/docker-run-007": {
+  "/docs/docker-cli/image-commands-1a3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-cli-docker-run-095-145"
+    "content": "content---docs-docker-cli-image-commandscd-6-087"
   },
-  "/docs/docker-compose/compose-basics-55c": {
+  "/docs/docker-compose/compose-networking-3db": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-compose-compose-basicsb-72-88d"
+    "content": "content---docs-docker-compose-compose-networking-3-c-8-bb1"
   },
   "/docs/docker-compose/docker-compose-e20": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -180,10 +216,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-custom-images-complete-docker-image-publishing-cheatsheet-537-ae2"
   },
-  "/docs/docker-custom-images/docker-custom-images-a80": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-custom-images-docker-custom-images-9-a-3-8cd"
-  },
   "/docs/docker-custom-images/docker-custom-images-1d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-custom-images-docker-custom-images-68-d-83c"
@@ -192,13 +224,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-custom-images-docker-image-optimization-guidea-86-886"
   },
-  "/docs/docker-custom-images/dockerfile-command-reference-280": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-custom-images-dockerfile-command-reference-99-e-2e6"
-  },
   "/docs/docker-custom-images/dockerfile-command-reference-d44": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-custom-images-dockerfile-command-reference-1-fa-c5c"
+  },
+  "/docs/docker-custom-images/image-optimization-421": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-image-optimization-907-b82"
   },
   "/docs/docker-custom-images/layer-847": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -228,6 +260,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-for-developers-docker-limitation-4-ee-e4c"
   },
+  "/docs/docker-networking/02-advanced-networking-508": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-networking-02-advanced-networking-7-a-1-786"
+  },
   "/docs/docker-networking/docker-networking-997": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-networking-docker-networkinga-9-f-85a"
@@ -240,6 +276,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-orchestration-docker-orchestration-with-aws-ecs-4-b-3-e8d"
   },
+  "/docs/docker-volumes/02-volume-drivers-972": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-volumes-02-volume-driversc-0-c-9b9"
+  },
   "/docs/docker-volumes/docker-volumes-9a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-volumes-docker-volumesfeb-4c5"
@@ -247,6 +287,10 @@
   "/docs/docker-volumes/docker-volumes-basics-a99": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docker-volumes-docker-volumes-basics-83-e-0c3"
+  },
+  "/docs/dockerfiles/best-practices-e84": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dockerfiles-best-practicesbd-9-2dc"
   },
   "/docs/dockerfiles/dockerfile-basics-060": {
     "__comp": "__comp---theme-doc-item-178-a40",

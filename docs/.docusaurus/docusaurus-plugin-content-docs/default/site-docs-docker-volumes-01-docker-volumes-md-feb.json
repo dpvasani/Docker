@@ -14,7 +14,8 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "01. 📦 Docker Volumes – A2Z Storage Guide 🐳",
-    "sidebar_label": "01. 📦 Docker Volumes – A2Z Storage Guide 🐳"
+    "sidebar_label": "01. 📦 Docker Volumes – A2Z Storage Guide 🐳",
+    "slug": "/docker-volumes/docker-volumes"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -22,7 +23,7 @@
     "permalink": "/docs/docker-volumes/docker-volumes-basics"
   },
   "next": {
-    "title": "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*",
-    "permalink": "/docs/docker-orchestration/docker-orchestration-with-aws-ecs"
+    "title": "02. Volume Drivers",
+    "permalink": "/docs/docker-volumes/02-volume-drivers"
   }
 }

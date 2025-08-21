@@ -1,6 +1,7 @@
 ---
 title: "01. 📦 Docker Volumes – A2Z Storage Guide 🐳"
 sidebar_label: "01. 📦 Docker Volumes – A2Z Storage Guide 🐳"
+slug: "/docker-volumes/docker-volumes"
 ---
 
 ---

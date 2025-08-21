@@ -14,12 +14,13 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "01. docker for developer",
-    "sidebar_label": "01. docker for developer"
+    "sidebar_label": "01. docker for developer",
+    "slug": "/docker-for-developers/docker-for-developer"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*",
-    "permalink": "/docs/docker-orchestration/docker-orchestration-with-aws-ecs"
+    "title": "👨‍💻 10. Docker for Developers",
+    "permalink": "/docs/category/docker-for-developers"
   },
   "next": {
     "title": "02. docker limitation",

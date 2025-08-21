@@ -1,6 +1,7 @@
 ---
 title: "02. Tag for DockerHub"
 sidebar_label: "02. Tag for DockerHub"
+slug: "/docker-custom-images/complete-docker-image-publishing-cheatsheet"
 ---
 
 #📘 Complete Docker Image Publishing CheatSheet 🐳🚀

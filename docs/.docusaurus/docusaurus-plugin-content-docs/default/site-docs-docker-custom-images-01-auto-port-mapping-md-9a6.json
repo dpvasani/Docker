@@ -14,12 +14,13 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "01. 🧭 Docker Port Mapping & CLI Flag CheatSheet",
-    "sidebar_label": "01. 🧭 Docker Port Mapping & CLI Flag CheatSheet"
+    "sidebar_label": "01. 🧭 Docker Port Mapping & CLI Flag CheatSheet",
+    "slug": "/docker-custom-images/auto-port-mapping"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Compose Basics",
-    "permalink": "/docs/docker-compose/compose-basics"
+    "title": "🏗️ 6. Docker Custom Images",
+    "permalink": "/docs/category/docker-custom-images"
   },
   "next": {
     "title": "02. Tag for DockerHub",

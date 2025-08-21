@@ -14,7 +14,8 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps",
-    "sidebar_label": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps"
+    "sidebar_label": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps",
+    "slug": "/docker-networking/docker-networking"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -22,7 +23,7 @@
     "permalink": "/docs/docker-networking/docker-networking-basics"
   },
   "next": {
-    "title": "01. Docker Volumes Basics",
-    "permalink": "/docs/docker-volumes/docker-volumes-basics"
+    "title": "02. Advanced Networking",
+    "permalink": "/docs/docker-networking/02-advanced-networking"
   }
 }

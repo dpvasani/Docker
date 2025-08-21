@@ -91,8 +91,8 @@ Throughout this guide, you'll find:
 
 Choose your path:
 - **New to Docker?** → Continue to [Docker Fundamentals](./docker-basics/what-is-docker)
-- **Know the basics?** → Jump to [Docker CLI Commands](./docker-cli/cli-cheat-sheet)
-- **Ready for advanced?** → Explore [Docker Compose](./docker-compose/compose-basics)
+- **Know the basics?** → Jump to [Docker CLI](/docs/category/docker-cli)
+- **Ready for advanced?** → Explore [Docker Compose](/docs/category/docker-compose)
 
 ---
 

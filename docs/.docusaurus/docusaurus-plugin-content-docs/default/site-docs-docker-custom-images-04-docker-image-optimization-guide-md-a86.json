@@ -14,12 +14,13 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "title": "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀",
-    "sidebar_label": "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀"
+    "sidebar_label": "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀",
+    "slug": "/docker-custom-images/docker-image-optimization-guide"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
-    "permalink": "/docs/docker-custom-images/docker-custom-images"
+    "title": "03. Image Optimization",
+    "permalink": "/docs/docker-custom-images/image-optimization"
   },
   "next": {
     "title": "05. 🧾 Dockerfile Command Reference",
