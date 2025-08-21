@@ -1,0 +1,28 @@
+{
+  "id": "docker-custom-images/docker-image-optimization-guide",
+  "title": "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀",
+  "description": "Optimize your Docker images for faster builds, smaller size, better caching, and production readiness. Let’s go!",
+  "source": "@site/docs/docker-custom-images/04-docker-image-optimization-guide.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/docker-image-optimization-guide",
+  "permalink": "/docs/docker-custom-images/docker-image-optimization-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/04-docker-image-optimization-guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀",
+    "sidebar_label": "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
+    "permalink": "/docs/docker-custom-images/docker-custom-images"
+  },
+  "next": {
+    "title": "05. 🧾 Dockerfile Command Reference",
+    "permalink": "/docs/docker-custom-images/dockerfile-command-reference"
+  }
+}

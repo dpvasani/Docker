@@ -1,0 +1,28 @@
+{
+  "id": "docker-custom-images/user-management",
+  "title": "10. 🔒 Why Secure User Management in Docker Matters?",
+  "description": "🧠 By default, Docker containers run processes as root, which is:",
+  "source": "@site/docs/docker-custom-images/10-user-management.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/user-management",
+  "permalink": "/docs/docker-custom-images/user-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/10-user-management.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "10. 🔒 Why Secure User Management in Docker Matters?",
+    "sidebar_label": "10. 🔒 Why Secure User Management in Docker Matters?"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "09. Port Mapping",
+    "permalink": "/docs/docker-custom-images/port-mapping"
+  },
+  "next": {
+    "title": "01. Docker Networking Basics",
+    "permalink": "/docs/docker-networking/docker-networking-basics"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dockerfiles/dockerfile-basics",
+  "title": "📝 Dockerfile Basics",
+  "description": "A Dockerfile is a text file that contains instructions for building a Docker image. It's like a recipe that tells Docker how to create your application's environment.",
+  "source": "@site/docs/dockerfiles/dockerfile-basics.md",
+  "sourceDirName": "dockerfiles",
+  "slug": "/dockerfiles/dockerfile-basics",
+  "permalink": "/docs/dockerfiles/dockerfile-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dockerfiles/dockerfile-basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dockerfile-basics",
+    "title": "📝 Dockerfile Basics",
+    "sidebar_label": "Dockerfile Basics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker Run",
+    "permalink": "/docs/docker-cli/docker-run"
+  },
+  "next": {
+    "title": "Dockerfile Commands",
+    "permalink": "/docs/dockerfiles/dockerfile-commands"
+  }
+}

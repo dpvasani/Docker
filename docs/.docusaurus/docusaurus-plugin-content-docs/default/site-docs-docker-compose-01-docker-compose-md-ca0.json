@@ -1,0 +1,28 @@
+{
+  "id": "docker-compose/docker-compose",
+  "title": "01. 🧩 Docker Compose – Full DevOps Power in One File",
+  "description": "---",
+  "source": "@site/docs/docker-compose/01-docker-compose.md",
+  "sourceDirName": "docker-compose",
+  "slug": "/docker-compose/docker-compose",
+  "permalink": "/docs/docker-compose/docker-compose",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-compose/01-docker-compose.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "01. 🧩 Docker Compose – Full DevOps Power in One File",
+    "sidebar_label": "01. 🧩 Docker Compose – Full DevOps Power in One File"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dockerfile Commands",
+    "permalink": "/docs/dockerfiles/dockerfile-commands"
+  },
+  "next": {
+    "title": "Compose Basics",
+    "permalink": "/docs/docker-compose/compose-basics"
+  }
+}

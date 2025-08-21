@@ -1,0 +1,28 @@
+{
+  "id": "docker-cli/docker-run",
+  "title": "🚀 Docker Run Command",
+  "description": "The docker run command is one of the most fundamental Docker commands. It creates and starts a new container from an image.",
+  "source": "@site/docs/docker-cli/docker-run.md",
+  "sourceDirName": "docker-cli",
+  "slug": "/docker-cli/docker-run",
+  "permalink": "/docs/docker-cli/docker-run",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-cli/docker-run.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "docker-run",
+    "title": "🚀 Docker Run Command",
+    "sidebar_label": "Docker Run"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01. 🐳 **Docker CLI Cheat Sheet**",
+    "permalink": "/docs/docker-cli/docker-cli-cheat-sheet"
+  },
+  "next": {
+    "title": "CLI Cheat Sheet",
+    "permalink": "/docs/docker-cli/cli-cheat-sheet"
+  }
+}

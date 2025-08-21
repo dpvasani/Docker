@@ -1,0 +1,28 @@
+{
+  "id": "docker-custom-images/nodejs-app-cheatsheet",
+  "title": "08. 🧪 Build the Docker image and tag it as 'my-node-app'",
+  "description": "🐳 Docker Cheatsheet for Node.js App",
+  "source": "@site/docs/docker-custom-images/08-nodejs-app-cheatsheet.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/nodejs-app-cheatsheet",
+  "permalink": "/docs/docker-custom-images/nodejs-app-cheatsheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/08-nodejs-app-cheatsheet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "08. 🧪 Build the Docker image and tag it as 'my-node-app'",
+    "sidebar_label": "08. 🧪 Build the Docker image and tag it as 'my-node-app'"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "07. 🧱 What is a Multi-Stage Build in Docker?",
+    "permalink": "/docs/docker-custom-images/multi-stage-build"
+  },
+  "next": {
+    "title": "09. Port Mapping",
+    "permalink": "/docs/docker-custom-images/port-mapping"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/about-ca4": {
+    "__comp": "__comp---site-src-pages-about-tsx-618-aa9",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "config": "config---about-5-e-9-bcb"
+  },
+  "/blog-3c4": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-2-b-0-edf"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/docker-guide-launch-2a1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-docker-guide-launchace-a20"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-docker-guide-launch-0-ed-7c0"
+  },
+  "/blog/tags-287": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
+  },
+  "/blog/tags/containers-5d3": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-2-b-0-edf"
+      }
+    ],
+    "__props": "__props---blog-tags-containers-23-b-4aa"
+  },
+  "/blog/tags/docker-b0e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-2-b-0-edf"
+      }
+    ],
+    "__props": "__props---blog-tags-docker-91-a-6d8"
+  },
+  "/blog/tags/documentation-4ab": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-2-b-0-edf"
+      }
+    ],
+    "__props": "__props---blog-tags-documentationaf-8-3c5"
+  },
+  "/docs-e01": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-3f8": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-ee8": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/docker-basics/docker-architecture-868": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-basics-docker-architecturef-94-2d2"
+  },
+  "/docs/docker-basics/what-is-docker-ca3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-basics-what-is-docker-161-070"
+  },
+  "/docs/docker-cli/cli-cheat-sheet-2f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-cli-cli-cheat-sheetda-5-e31"
+  },
+  "/docs/docker-cli/docker-cli-cheat-sheet-e6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-cli-docker-cli-cheat-sheet-3-a-5-6b4"
+  },
+  "/docs/docker-cli/docker-run-750": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-cli-docker-runa-30-a28"
+  },
+  "/docs/docker-cli/docker-run-007": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-cli-docker-run-095-145"
+  },
+  "/docs/docker-compose/compose-basics-55c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-compose-compose-basicsb-72-88d"
+  },
+  "/docs/docker-compose/docker-compose-e20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-compose-docker-composeca-0-470"
+  },
+  "/docs/docker-custom-images/auto-port-mapping-595": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-auto-port-mapping-9-a-6-51c"
+  },
+  "/docs/docker-custom-images/complete-docker-image-publishing-cheatsheet-5c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-complete-docker-image-publishing-cheatsheet-537-ae2"
+  },
+  "/docs/docker-custom-images/docker-custom-images-a80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-docker-custom-images-9-a-3-8cd"
+  },
+  "/docs/docker-custom-images/docker-custom-images-1d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-docker-custom-images-68-d-83c"
+  },
+  "/docs/docker-custom-images/docker-image-optimization-guide-fcf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-docker-image-optimization-guidea-86-886"
+  },
+  "/docs/docker-custom-images/dockerfile-command-reference-280": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-dockerfile-command-reference-99-e-2e6"
+  },
+  "/docs/docker-custom-images/dockerfile-command-reference-d44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-dockerfile-command-reference-1-fa-c5c"
+  },
+  "/docs/docker-custom-images/layer-847": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-layer-981-633"
+  },
+  "/docs/docker-custom-images/multi-stage-build-633": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-multi-stage-buildd-1-c-a0f"
+  },
+  "/docs/docker-custom-images/nodejs-app-cheatsheet-bb3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-nodejs-app-cheatsheet-31-b-277"
+  },
+  "/docs/docker-custom-images/port-mapping-dfd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-port-mapping-001-0b9"
+  },
+  "/docs/docker-custom-images/user-management-ca9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-custom-images-user-management-10-a-fb4"
+  },
+  "/docs/docker-for-developers/docker-for-developer-9d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-for-developers-docker-for-developer-323-e4e"
+  },
+  "/docs/docker-for-developers/docker-limitation-8c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-for-developers-docker-limitation-4-ee-e4c"
+  },
+  "/docs/docker-networking/docker-networking-997": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-networking-docker-networkinga-9-f-85a"
+  },
+  "/docs/docker-networking/docker-networking-basics-04d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-networking-docker-networking-basics-081-80b"
+  },
+  "/docs/docker-orchestration/docker-orchestration-with-aws-ecs-745": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-orchestration-docker-orchestration-with-aws-ecs-4-b-3-e8d"
+  },
+  "/docs/docker-volumes/docker-volumes-9a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-volumes-docker-volumesfeb-4c5"
+  },
+  "/docs/docker-volumes/docker-volumes-basics-a99": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-docker-volumes-docker-volumes-basics-83-e-0c3"
+  },
+  "/docs/dockerfiles/dockerfile-basics-060": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dockerfiles-dockerfile-basics-08-e-6c5"
+  },
+  "/docs/dockerfiles/dockerfile-commands-599": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dockerfiles-dockerfile-commands-0-d-8-c2c"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/-e5f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "config": "config---about-5-e-9-bcb"
+  }
+}

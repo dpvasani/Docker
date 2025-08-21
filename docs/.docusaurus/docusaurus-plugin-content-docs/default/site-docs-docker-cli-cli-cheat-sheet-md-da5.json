@@ -1,0 +1,28 @@
+{
+  "id": "docker-cli/cli-cheat-sheet",
+  "title": "⚡ Docker CLI Cheat Sheet",
+  "description": "Your one-stop guide to mastering Docker commands 🚀",
+  "source": "@site/docs/docker-cli/cli-cheat-sheet.md",
+  "sourceDirName": "docker-cli",
+  "slug": "/docker-cli/cli-cheat-sheet",
+  "permalink": "/docs/docker-cli/cli-cheat-sheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-cli/cli-cheat-sheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cli-cheat-sheet",
+    "title": "⚡ Docker CLI Cheat Sheet",
+    "sidebar_label": "CLI Cheat Sheet"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker Run",
+    "permalink": "/docs/docker-cli/docker-run"
+  },
+  "next": {
+    "title": "Docker Run",
+    "permalink": "/docs/docker-cli/docker-run"
+  }
+}

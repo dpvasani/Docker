@@ -1,0 +1,29 @@
+{
+  "id": "docker-custom-images/dockerfile-command-reference",
+  "title": "🔧 02. Dockerfile Command Reference",
+  "description": "A comprehensive reference for all Dockerfile commands and instructions. This guide covers every command you need to build efficient and secure Docker images.",
+  "source": "@site/docs/docker-custom-images/02-dockerfile-command-reference.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/dockerfile-command-reference",
+  "permalink": "/docs/docker-custom-images/dockerfile-command-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/02-dockerfile-command-reference.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "dockerfile-command-reference",
+    "title": "🔧 02. Dockerfile Command Reference",
+    "sidebar_label": "02. Dockerfile Command Reference"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "04. 🐳 Docker Image Optimization Guide — The Ultimate Cheat Sheet 🚀",
+    "permalink": "/docs/docker-custom-images/docker-image-optimization-guide"
+  },
+  "next": {
+    "title": "05. 🧾 Dockerfile Command Reference",
+    "permalink": "/docs/docker-custom-images/dockerfile-command-reference"
+  }
+}

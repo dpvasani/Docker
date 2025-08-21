@@ -1,0 +1,28 @@
+{
+  "id": "docker-compose/compose-basics",
+  "title": "🧩 Docker Compose Basics",
+  "description": "---",
+  "source": "@site/docs/docker-compose/compose-basics.md",
+  "sourceDirName": "docker-compose",
+  "slug": "/docker-compose/compose-basics",
+  "permalink": "/docs/docker-compose/compose-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-compose/compose-basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "compose-basics",
+    "title": "🧩 Docker Compose Basics",
+    "sidebar_label": "Compose Basics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01. 🧩 Docker Compose – Full DevOps Power in One File",
+    "permalink": "/docs/docker-compose/docker-compose"
+  },
+  "next": {
+    "title": "01. 🧭 Docker Port Mapping & CLI Flag CheatSheet",
+    "permalink": "/docs/docker-custom-images/auto-port-mapping"
+  }
+}

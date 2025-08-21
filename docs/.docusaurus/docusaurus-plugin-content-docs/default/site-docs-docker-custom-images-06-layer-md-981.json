@@ -1,0 +1,28 @@
+{
+  "id": "docker-custom-images/layer",
+  "title": "06. layer",
+  "description": "🧩 Docker Layer Caching: What & Why?",
+  "source": "@site/docs/docker-custom-images/06-layer.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/layer",
+  "permalink": "/docs/docker-custom-images/layer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/06-layer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "06. layer",
+    "sidebar_label": "06. layer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "05. 🧾 Dockerfile Command Reference",
+    "permalink": "/docs/docker-custom-images/dockerfile-command-reference"
+  },
+  "next": {
+    "title": "07. 🧱 What is a Multi-Stage Build in Docker?",
+    "permalink": "/docs/docker-custom-images/multi-stage-build"
+  }
+}

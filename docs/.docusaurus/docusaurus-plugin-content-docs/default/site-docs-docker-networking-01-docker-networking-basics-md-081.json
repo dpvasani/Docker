@@ -1,0 +1,29 @@
+{
+  "id": "docker-networking/docker-networking-basics",
+  "title": "🌐 01. Docker Networking Basics",
+  "description": "Docker networking allows containers to communicate with each other, the host machine, and the external internet. This comprehensive guide covers everything you need to know about Docker networking.",
+  "source": "@site/docs/docker-networking/01-docker-networking-basics.md",
+  "sourceDirName": "docker-networking",
+  "slug": "/docker-networking/docker-networking-basics",
+  "permalink": "/docs/docker-networking/docker-networking-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-networking/01-docker-networking-basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "docker-networking-basics",
+    "title": "🌐 01. Docker Networking Basics",
+    "sidebar_label": "01. Docker Networking Basics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "10. 🔒 Why Secure User Management in Docker Matters?",
+    "permalink": "/docs/docker-custom-images/user-management"
+  },
+  "next": {
+    "title": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps",
+    "permalink": "/docs/docker-networking/docker-networking"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "docker-basics/docker-architecture",
+  "title": "🏗️ Docker Architecture",
+  "description": "Understanding Docker's architecture is crucial for mastering containerization. Let's explore how Docker works under the hood.",
+  "source": "@site/docs/docker-basics/docker-architecture.md",
+  "sourceDirName": "docker-basics",
+  "slug": "/docker-basics/docker-architecture",
+  "permalink": "/docs/docker-basics/docker-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-basics/docker-architecture.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "docker-architecture",
+    "title": "🏗️ Docker Architecture",
+    "sidebar_label": "Docker Architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🚀 1. Getting Started",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "What is Docker?",
+    "permalink": "/docs/docker-basics/what-is-docker"
+  }
+}

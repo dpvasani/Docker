@@ -1,0 +1,28 @@
+{
+  "id": "docker-custom-images/port-mapping",
+  "title": "09. Port Mapping",
+  "description": "---",
+  "source": "@site/docs/docker-custom-images/09-port-mapping.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/port-mapping",
+  "permalink": "/docs/docker-custom-images/port-mapping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/09-port-mapping.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "09. Port Mapping",
+    "sidebar_label": "09. Port Mapping"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "08. 🧪 Build the Docker image and tag it as 'my-node-app'",
+    "permalink": "/docs/docker-custom-images/nodejs-app-cheatsheet"
+  },
+  "next": {
+    "title": "10. 🔒 Why Secure User Management in Docker Matters?",
+    "permalink": "/docs/docker-custom-images/user-management"
+  }
+}

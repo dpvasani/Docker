@@ -1,0 +1,50 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/your-username/fastapi-docs/tree/main/blog/2024-01-01-welcome.md",
+  "source": "@site/blog/2024-01-01-welcome.md",
+  "title": "Welcome to FastAPI Documentation",
+  "description": "Welcome to our comprehensive FastAPI documentation site! This blog will feature:",
+  "date": "2024-01-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "fastapi",
+      "permalink": "/blog/tags/fastapi"
+    },
+    {
+      "inline": true,
+      "label": "documentation",
+      "permalink": "/blog/tags/documentation"
+    },
+    {
+      "inline": true,
+      "label": "welcome",
+      "permalink": "/blog/tags/welcome"
+    }
+  ],
+  "readingTime": 0.38,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "FastAPI Documentation Team",
+      "title": "FastAPI Expert",
+      "url": "https://github.com/your-username",
+      "imageURL": "https://github.com/your-username.png",
+      "key": "admin",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome to FastAPI Documentation",
+    "authors": [
+      "admin"
+    ],
+    "tags": [
+      "fastapi",
+      "documentation",
+      "welcome"
+    ]
+  },
+  "unlisted": false
+}

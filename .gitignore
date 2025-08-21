@@ -1,2 +1,24 @@
 *Node/node_modules/
+*docs/node_modules/
 *Ts/node_modules/
+*Ts/dist/
+*Ts/node_modules/
+
+
+# Node dependencies
+node_modules/
+docs/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+build/
+dist/
+.cache/
+
+# OS junk
+.DS_Store
+Thumbs.db

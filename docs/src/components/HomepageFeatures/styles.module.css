@@ -1,0 +1,36 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  background-color: var(--ifm-background-surface-color);
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 1rem;
+}
+
+.features .col {
+  margin-bottom: 2rem;
+}
+
+.features h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-content);
+}
+
+.features p {
+  color: var(--ifm-color-content-secondary);
+  line-height: 1.6;
+}
+
+@media screen and (max-width: 966px) {
+  .featureSvg {
+    height: 150px;
+    width: 150px;
+  }
+}

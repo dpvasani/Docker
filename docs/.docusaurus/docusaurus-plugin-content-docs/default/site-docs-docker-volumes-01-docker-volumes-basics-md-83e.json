@@ -1,0 +1,29 @@
+{
+  "id": "docker-volumes/docker-volumes-basics",
+  "title": "📦 01. Docker Volumes Basics",
+  "description": "Docker volumes provide persistent storage that survives container restarts and can be shared between containers. This comprehensive guide covers everything you need to know about Docker volumes.",
+  "source": "@site/docs/docker-volumes/01-docker-volumes-basics.md",
+  "sourceDirName": "docker-volumes",
+  "slug": "/docker-volumes/docker-volumes-basics",
+  "permalink": "/docs/docker-volumes/docker-volumes-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-volumes/01-docker-volumes-basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "docker-volumes-basics",
+    "title": "📦 01. Docker Volumes Basics",
+    "sidebar_label": "01. Docker Volumes Basics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps",
+    "permalink": "/docs/docker-networking/docker-networking"
+  },
+  "next": {
+    "title": "01. 📦 Docker Volumes – A2Z Storage Guide 🐳",
+    "permalink": "/docs/docker-volumes/docker-volumes"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "docker-networking/docker-networking",
+  "title": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps",
+  "description": "---",
+  "source": "@site/docs/docker-networking/01-docker-networking.md",
+  "sourceDirName": "docker-networking",
+  "slug": "/docker-networking/docker-networking",
+  "permalink": "/docs/docker-networking/docker-networking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-networking/01-docker-networking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps",
+    "sidebar_label": "01. 🌐 Docker Networking A2Z – Masterclass for Developers & DevOps"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01. Docker Networking Basics",
+    "permalink": "/docs/docker-networking/docker-networking-basics"
+  },
+  "next": {
+    "title": "01. Docker Volumes Basics",
+    "permalink": "/docs/docker-volumes/docker-volumes-basics"
+  }
+}

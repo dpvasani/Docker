@@ -1,0 +1,28 @@
+{
+  "id": "docker-basics/what-is-docker",
+  "title": "🐳 What is Docker?",
+  "description": "Docker is a platform for developing, shipping, and running applications in containers. Think of containers as lightweight, portable packages that contain everything needed to run an application.",
+  "source": "@site/docs/docker-basics/what-is-docker.md",
+  "sourceDirName": "docker-basics",
+  "slug": "/docker-basics/what-is-docker",
+  "permalink": "/docs/docker-basics/what-is-docker",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-basics/what-is-docker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "what-is-docker",
+    "title": "🐳 What is Docker?",
+    "sidebar_label": "What is Docker?"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker Architecture",
+    "permalink": "/docs/docker-basics/docker-architecture"
+  },
+  "next": {
+    "title": "01. 🐳 **Docker CLI Cheat Sheet**",
+    "permalink": "/docs/docker-cli/docker-cli-cheat-sheet"
+  }
+}

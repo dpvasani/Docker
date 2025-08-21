@@ -1,0 +1,29 @@
+{
+  "id": "docker-custom-images/docker-custom-images",
+  "title": "🏗️ 01. Docker Custom Images",
+  "description": "Creating custom Docker images is a fundamental skill for Docker users. This guide covers everything you need to know about building, optimizing, and managing your own Docker images.",
+  "source": "@site/docs/docker-custom-images/01-docker-custom-images.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/docker-custom-images",
+  "permalink": "/docs/docker-custom-images/docker-custom-images",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/01-docker-custom-images.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "docker-custom-images",
+    "title": "🏗️ 01. Docker Custom Images",
+    "sidebar_label": "01. Docker Custom Images"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "02. Tag for DockerHub",
+    "permalink": "/docs/docker-custom-images/complete-docker-image-publishing-cheatsheet"
+  },
+  "next": {
+    "title": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
+    "permalink": "/docs/docker-custom-images/docker-custom-images"
+  }
+}

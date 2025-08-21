@@ -1,0 +1,28 @@
+{
+  "id": "docker-custom-images/auto-port-mapping",
+  "title": "01. 🧭 Docker Port Mapping & CLI Flag CheatSheet",
+  "description": "---",
+  "source": "@site/docs/docker-custom-images/01-auto-port-mapping.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/auto-port-mapping",
+  "permalink": "/docs/docker-custom-images/auto-port-mapping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/01-auto-port-mapping.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "01. 🧭 Docker Port Mapping & CLI Flag CheatSheet",
+    "sidebar_label": "01. 🧭 Docker Port Mapping & CLI Flag CheatSheet"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Compose Basics",
+    "permalink": "/docs/docker-compose/compose-basics"
+  },
+  "next": {
+    "title": "02. Tag for DockerHub",
+    "permalink": "/docs/docker-custom-images/complete-docker-image-publishing-cheatsheet"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Routing",
+  "title": "🚀 FastAPI Project Refactoring with Routers",
+  "description": "🌿 Modular Structure · 📁 Folder Setup · 📦 Multiple Routers · 🔁 Clean Architecture",
+  "source": "@site/../Blogs/3. Routing.md",
+  "sourceDirName": ".",
+  "slug": "/Routing",
+  "permalink": "/docs/Routing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/fastapi-docs/tree/main/../Blogs/3. Routing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2. Operation Description",
+    "permalink": "/docs/Operation Description"
+  },
+  "next": {
+    "title": "4. Parameters",
+    "permalink": "/docs/Parameters"
+  }
+}

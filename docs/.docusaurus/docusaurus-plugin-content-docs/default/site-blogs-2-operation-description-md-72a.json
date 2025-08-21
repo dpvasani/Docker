@@ -1,0 +1,27 @@
+{
+  "id": "Operation Description",
+  "title": "🌟 FastAPI Metadata",
+  "description": "🎯 Overview",
+  "source": "@site/../Blogs/2. Operation Description.md",
+  "sourceDirName": ".",
+  "slug": "/Operation Description",
+  "permalink": "/docs/Operation Description",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/fastapi-docs/tree/main/../Blogs/2. Operation Description.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. GET Methods",
+    "permalink": "/docs/GET Methods"
+  },
+  "next": {
+    "title": "3. Routing",
+    "permalink": "/docs/Routing"
+  }
+}

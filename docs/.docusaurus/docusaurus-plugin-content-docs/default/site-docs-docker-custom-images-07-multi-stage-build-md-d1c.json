@@ -1,0 +1,28 @@
+{
+  "id": "docker-custom-images/multi-stage-build",
+  "title": "07. 🧱 What is a Multi-Stage Build in Docker?",
+  "description": "Multi-stage build allows you to use multiple FROM statements in a single Dockerfile to:",
+  "source": "@site/docs/docker-custom-images/07-multi-stage-build.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/multi-stage-build",
+  "permalink": "/docs/docker-custom-images/multi-stage-build",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/07-multi-stage-build.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "07. 🧱 What is a Multi-Stage Build in Docker?",
+    "sidebar_label": "07. 🧱 What is a Multi-Stage Build in Docker?"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "06. layer",
+    "permalink": "/docs/docker-custom-images/layer"
+  },
+  "next": {
+    "title": "08. 🧪 Build the Docker image and tag it as 'my-node-app'",
+    "permalink": "/docs/docker-custom-images/nodejs-app-cheatsheet"
+  }
+}

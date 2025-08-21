@@ -1,0 +1,28 @@
+{
+  "id": "docker-custom-images/docker-custom-images",
+  "title": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
+  "description": "Learn to build, optimize, and run custom Docker images for Node.js applications like a pro.",
+  "source": "@site/docs/docker-custom-images/03-docker-custom-images.md",
+  "sourceDirName": "docker-custom-images",
+  "slug": "/docker-custom-images/docker-custom-images",
+  "permalink": "/docs/docker-custom-images/docker-custom-images",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-custom-images/03-docker-custom-images.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
+    "sidebar_label": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "02. Tag for DockerHub",
+    "permalink": "/docs/docker-custom-images/complete-docker-image-publishing-cheatsheet"
+  },
+  "next": {
+    "title": "03. 📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀",
+    "permalink": "/docs/docker-custom-images/docker-custom-images"
+  }
+}

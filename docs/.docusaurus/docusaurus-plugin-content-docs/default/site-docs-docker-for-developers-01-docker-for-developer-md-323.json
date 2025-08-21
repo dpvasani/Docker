@@ -1,0 +1,28 @@
+{
+  "id": "docker-for-developers/docker-for-developer",
+  "title": "01. docker for developer",
+  "description": "🚀 Course Overview & What to Expect",
+  "source": "@site/docs/docker-for-developers/01-docker-for-developer.md",
+  "sourceDirName": "docker-for-developers",
+  "slug": "/docker-for-developers/docker-for-developer",
+  "permalink": "/docs/docker-for-developers/docker-for-developer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-for-developers/01-docker-for-developer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "01. docker for developer",
+    "sidebar_label": "01. docker for developer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*",
+    "permalink": "/docs/docker-orchestration/docker-orchestration-with-aws-ecs"
+  },
+  "next": {
+    "title": "02. docker limitation",
+    "permalink": "/docs/docker-for-developers/docker-limitation"
+  }
+}

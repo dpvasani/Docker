@@ -1,0 +1,27 @@
+{
+  "id": "OAuth",
+  "title": "9. OAuth2 Authentication in FastAPI",
+  "description": "🚀 Overview",
+  "source": "@site/../Blogs/9. OAuth.md",
+  "sourceDirName": ".",
+  "slug": "/OAuth",
+  "permalink": "/docs/OAuth",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/fastapi-docs/tree/main/../Blogs/9. OAuth.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 9,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "8. Error Handling",
+    "permalink": "/docs/Error Handling"
+  },
+  "next": {
+    "title": "10. Working With File",
+    "permalink": "/docs/Working With File"
+  }
+}

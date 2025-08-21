@@ -1,0 +1,23 @@
+{
+  "id": "FastAPI Dependencies",
+  "title": "🔗 FastAPI Dependencies: Complete Advanced Guide with Real-World Examples",
+  "description": "---",
+  "source": "@site/../Blogs/15. FastAPI Dependencies.md",
+  "sourceDirName": ".",
+  "slug": "/FastAPI Dependencies",
+  "permalink": "/docs/FastAPI Dependencies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/fastapi-docs/tree/main/../Blogs/15. FastAPI Dependencies.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 15,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "14. Some More Concepts",
+    "permalink": "/docs/Some More Concepts"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dockerfiles/dockerfile-commands",
+  "title": "🔧 Dockerfile Commands Reference",
+  "description": "Each command in a Dockerfile defines a specific instruction for how to build a Docker image. Here's a detailed breakdown:",
+  "source": "@site/docs/dockerfiles/dockerfile-commands.md",
+  "sourceDirName": "dockerfiles",
+  "slug": "/dockerfiles/dockerfile-commands",
+  "permalink": "/docs/dockerfiles/dockerfile-commands",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dockerfiles/dockerfile-commands.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dockerfile-commands",
+    "title": "🔧 Dockerfile Commands Reference",
+    "sidebar_label": "Dockerfile Commands"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dockerfile Basics",
+    "permalink": "/docs/dockerfiles/dockerfile-basics"
+  },
+  "next": {
+    "title": "01. 🧩 Docker Compose – Full DevOps Power in One File",
+    "permalink": "/docs/docker-compose/docker-compose"
+  }
+}

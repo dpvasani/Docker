@@ -1,0 +1,28 @@
+{
+  "id": "docker-orchestration/docker-orchestration-with-aws-ecs",
+  "title": "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*",
+  "description": "---",
+  "source": "@site/docs/docker-orchestration/01-docker-orchestration-with-aws-ecs.md",
+  "sourceDirName": "docker-orchestration",
+  "slug": "/docker-orchestration/docker-orchestration-with-aws-ecs",
+  "permalink": "/docs/docker-orchestration/docker-orchestration-with-aws-ecs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker-orchestration/01-docker-orchestration-with-aws-ecs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*",
+    "sidebar_label": "01. 🚢 **Docker Orchestration with AWS ECS – Full Guide** *(with Node.js Production Testing & Tips)*"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01. 📦 Docker Volumes – A2Z Storage Guide 🐳",
+    "permalink": "/docs/docker-volumes/docker-volumes"
+  },
+  "next": {
+    "title": "01. docker for developer",
+    "permalink": "/docs/docker-for-developers/docker-for-developer"
+  }
+}
